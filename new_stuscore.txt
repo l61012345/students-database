@@ -1,0 +1,31 @@
+author:Liu Yilin #1944419
+stuno   score  subject
+105     32     Database
+108     39     C Programming
+101     41     C Programming
+107     42     Data Mining
+103     43     Art
+110     43     Math
+101     48     English
+107     48     Database
+102     50     Math
+108     53     Database
+103     56     C Programming
+108     58     Math
+105     63     Math
+104     64     Math
+106     64     Math
+110     65     Database
+109     67     Art
+105     71     C Programming
+106     78     Art
+110     78     C Programming
+106     82     Computer Architecture
+110     83     Computer Architecture
+107     86     Information Security
+106     89     C Programming
+111     89     Math
+106     91     Physics
+111     92     C Programming
+111     96     English
+108     98     Spatial Database

@@ -1,0 +1,12 @@
+stuno,fname,lname,age
+101,Keanu,Reeves,21
+102,Nicolas,Cage,20
+103,Tom,Cruse,20
+104,Susan,Boyle,22
+105,Mariah,Carey,19
+106,George,Mikan,23
+107,Bill,Sharman,20
+108,Paul,Arizin,19
+109,Bob,Pettit,20
+110,Jerry,West,21
+111,Yilin,Liu,19

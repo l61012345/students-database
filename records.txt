@@ -1,0 +1,30 @@
+stuno,cname,score
+101,C Programming,41
+101,English,48
+102,Math,50
+103,Art,43
+103,C Programming,56
+104,Math,64
+105,C Programming,71
+105,Math,63
+105,Database,32
+106,C Programming,89
+106,Art,78
+106,Physics,91
+106,Math,64
+106,Computer Architecture,82
+107,Information Security,86
+107,Database,48
+107,Data Mining,42
+108,C Programming,39
+108,Database,53
+108,Math,58
+108,Spatial Database,98
+109,Art,67
+110,C Programming,78
+110,Math,43
+110,Computer Architecture,83
+110,Database,65
+111,C Programming,92
+111,Math,89
+111,English,96

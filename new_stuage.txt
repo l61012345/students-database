@@ -1,0 +1,13 @@
+author:Liu Yilin #1944419
+name     age
+Mariah Carey   19
+Paul Arizin   19
+Yilin Liu   19
+Nicolas Cage   20
+Tom Cruse   20
+Bill Sharman   20
+Bob Pettit   20
+Keanu Reeves   21
+Jerry West   21
+Susan Boyle   22
+George Mikan   23
